@@ -1,6 +1,9 @@
-
-
-
+Name : D Tejas
+Compeny : CODTECH IT SOLUTIONS
+Intern ID : CT08DS6426
+Domain : Python Programming
+Duration : August 5th to September 5th ,2024
+Mentor : Muzammil Ahmed
 
 
 # Overview of the Project
